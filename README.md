@@ -24,4 +24,4 @@ In the user's profile and on a separate page, displays all topics on the forum t
 <!-- ENDIF -->
 ```
 Бета-версия.
-# [Help & Support | Помощь и поддержка](https://abuyfile.com/ru/forums/cotonti/custom/plugs/topic98)
+### [Help & Support | Помощь и поддержка](https://abuyfile.com/ru/forums/cotonti/custom/plugs/topic98)
